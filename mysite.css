@@ -1,0 +1,69 @@
+body{
+ background-color:#76e;
+}
+h1{
+	color: pink;
+font-size: 1cm;
+font-family: cursive;
+font-style: oblique 10deg;
+text-shadow: 2px 2px 4px #000000;
+}
+h2{
+	color: coral;
+font-size: 1cm;
+font-family: cursive;
+font-style: oblique 10deg;
+text-shadow: 2px 2px 4px #000000;
+}
+h3{
+	color: red;
+font-size: 1cm;
+font-family: cursive;
+font-style: oblique 10deg;
+text-shadow: 2px 2px 4px #000000;
+} 
+h4{
+	color: red;
+font-size: 1cm;
+font-family: cursive;
+font-style: oblique 10deg;
+text-shadow: 2px 2px 4px #000000;
+} 
+h5{
+	color: red;
+font-size: 1cm;
+font-family: cursive;
+font-style: oblique 10deg;
+text-shadow: 2px 2px 4px #000000;
+}
+h6{
+	color: red;
+font-size: 1cm;
+font-family: cursive;
+font-style: oblique 10deg;
+text-shadow: 2px 2px 4px #000000;
+
+}
+p{
+	color:lightpink;
+	font-size: 0.7cm;
+font-family: cursive;
+font-style: oblique 10deg;
+
+}
+img{
+	width: 200px;
+	height: 255px;
+
+}
+.bgvideo{
+	width: 6%;
+	height: 6%
+	position:absolute;
+	top: 0;
+	left: 0;
+	object-fit: cover;
+}
+.video{
+	text-align: right;
+}

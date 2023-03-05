@@ -1,0 +1,30 @@
+body{
+	background-color: grey;
+}
+p{
+	font-size: 50px;
+	color: yellow;
+	font-family: cursive;
+}
+table{
+	border: double 5px lime;
+	width: 50%;
+}
+th,td{
+	border: solid 2px yellow;
+    width: 25%;
+    height: 1cm;
+    font-size: 24px;
+}
+tr:hover{
+	background-color: pink;
+}
+td:hover{
+	background:linear-gradient(#f00,#0ff,#ff0);
+	font-weight: 900;
+	font-size: 2em;
+	text-align:center;
+}
+tr:nth-child(odd){
+	background-color: violet;
+}

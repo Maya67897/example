@@ -1,0 +1,33 @@
+body{
+	background-color:black;
+}
+p{
+	font-size: 50px;
+	color: white;
+	background-color: red;
+}
+ul{
+	font-size: 30px;
+	color: pink;
+}
+ol{
+font-size: 30px;
+	color: yellow;	
+	margin-left: 150px;
+}
+ul li::marker{
+	color: orange;
+	font-size: 1.2em;
+}
+ul{
+	font-size: 30px;
+	color: yellow;	
+	margin-left: 150px;
+}
+ul li::marker{
+color: blue;
+font-size: 1.2em;
+}
+.m1 li{
+	list-style-type: \2713;
+}

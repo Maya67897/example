@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+body{
+	background-color:  darkred;
+}
+p.first{
+	color: darkblue;
+	font-size:1cm;
+	background: linear-gradient(yellow,green);
+font-family: cursive;
+
+}
+
+.second{
+	font-size: 50px;
+	font-family: 'Lobster', cursive;
+}
+.third{
+	font-size: 1cm;
+	color: silver;
+	font-style: italic;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+.fourth{
+	font-size: 1cm;
+	color: white;
+	font-variant: small-caps;
+}
+.big{
+	font-size: 2cm;
+	font-weight: 900;
+	color: gold;
+}
+.five{
+	font-family: `Rubik Storm`, cursive;
+	font-size: 2cm;
+	color: lime;
+	text-shadow:  0 0 10px #FFF;
+}
+.six{
+	font-size: 2cm;
+	color: silver;
+	text-decoration: underline;
+	text-decoration-color: pink;
+	text-decoration-style: wavy;
+	text-underline-position: under;
+}
+.seven{
+	font-size: 2cm;
+	color: green;
+	text-decoration: underline;
+	text-decoration-color: yellow;
+	text-decoration-style: dotted;
+	text-underline-position: under;
+	text-shadow:  0 0 10px #F0F;
+}
+.eight{
+	font-size: 2cm;
+	color: green;
+	text-decoration: underline;
+	text-decoration-color: yellow;
+	text-decoration-style: dotted;
+	text-underline-position: under;
+	 color: white;
+	text-shadow: 2px 2px 4px #000000;
+}
+   .nine {
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 5rem;
+    font-stretch: 85%;
+    font-weight: 450;
+  
+  }
+
+  .ten{
+  	font-kerning: normal;
+  	font-kerning: none;
+  }
+   
+  .container1 * {
+    font-variant-alternates: styleset(alt-a);
+  }
+  .container1 .script {
+    font-variant-alternates: stylistic(alternates);
+  }
+ 

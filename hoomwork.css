@@ -1,0 +1,30 @@
+body{
+	background-color:#ABCDEF;
+}
+p{
+    color: #000000;
+	font-size: 24px;
+	font-family: 'Rubik+Vinyl', cursive; 
+}
+table{
+	border: double 5px lime;
+	width: 50%;
+}
+th,td{
+	border: solid 2px yellow;
+    width: 25%;
+    height: 1cm;
+    font-size: 24px;
+}
+tr:hover{
+	background-color: pink;
+}
+td:hover{
+	background:linear-gradient(#734F96,#9932CC,#8A2BE2);
+	font-weight: 900;
+	font-size: 2em;
+	text-align:center;
+	ul::li{
+		font-size: 56px;
+		color: green;
+	}

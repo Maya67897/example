@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Vinyl&display=swap');
+body{
+	background-color: #76e;
+    
+}
+p.first{
+	color: black;
+	font-size: 1cm;
+	background:linear-gradient(hotpink,pink);
+font-family: cursive;и
+font-style: oblique 10deg;
+}
+p.second{
+color: black;
+font-size: 40px;
+font-family: 'Rubik+Vinyl', cursive; 
+color: red;
+text-emphasis: filled brown;
+}
+p.third{
+	color: lightgreen;
+	font-size:30px;
+	font-family:'Rubik+Vinyl', cursive;
+	text-emphasis: filled double-circle gold;
+	і
+}
+p.fourth{
+	color: crimson;
+font-size: 40px;
+font-family: 'Oswald', cursive; 
+text-emphasis: "*" #ff0000;
+}
+p.five{
+	color: lime;
+font-size: 40px;
+font-family: cursive;
+text-emphasis: triangle #d55;
+}
+p.six{
+color: crimson;
+font-size: 40px;
+font-family: 'Oswald', cursive;
+text-emphasis-style: filled double-circle;
+text-shadow: 2px 2px 4px #000000;
+}
+p.seven{
+color: crimson;
+font-size: 40px;
+font-family:  cursive;
+text-shadow: 5px 5px #800000;
+}
+p.eight{
+color: crimson;
+font-size: 40px;
+font-family:  cursive;
+text-decoration: underline;
+	text-decoration-color: pink;
+	text-decoration-style: wavy;
+	text-underline-position: under;
+	text-shadow:  0 0 10px #F0F;
+}
+
